@@ -1,3 +1,3 @@
-<h1>Welcome to OpenPub</h1>
+<h1>Welcome to &nbsp;<i class="bi bi-book me-1"></i>OpenPub</h1>
 
-<i class="bi bi-book"></i>
+
